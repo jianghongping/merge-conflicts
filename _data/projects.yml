@@ -16,7 +16,7 @@
   description: I was in charge of design of RFQ DTL coupler and debuncher, calculation of the impedence of Synchrotron ring, analysis the Mechanical error of DTL.
 
 #ADS experiments
--project: 973ADS beamhalo experiments
+- project: 973ADS beamhalo experiments
   role: Contributor
   duration: 2010-2014
   url: "https://www.ihep.ac.cn"
