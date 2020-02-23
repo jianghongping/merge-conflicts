@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
+# SESRI
+- project: SESRI-HIT
   role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+  duration: 2017 &mdash; Present
+  url: "https://sesri.hit.edu.cn"
+  description: I am in charge of LINAC and 10MeV electron accelerator.
 
-# GitHub Classroom
-- project: GitHub Classroom
+# XiPAF and CPHS
+- project: XiPAF and CPHS
   role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  duration: 2014-2016
+  url: "https:www.tsinghua.edu.cn"
+  description: I was in charge of design of RFQ DTL coupler and debuncher, calculation of the impedence of Synchrotron ring, analysis the Mechanical error of DTL.
+
+#ADS experiments
+-project: 973ADS beamhalo experiments
+  role: Contributor
+  duration: 2010-2014
+  url: "https://www.ihep.ac.cn"
+  description: I am in charge of simulation of beam dynamics of the LINAC.
