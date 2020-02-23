@@ -1,20 +1,19 @@
 # Jobs
 
-# Trainer
-- company: GitHub, Inc.
-  position: GitHub Trainer
-  duration: March, 2012 &mdash; Present
-  summary: Teach all things Git, give away all the stickers, ensure world peace.
+# Post-doctor
+- company: Tsinghua University
+  position: Post-doctor
+  duration: September, 2014-December, 2016
+  summary: XiPAF project and upgrading the CPHS
 
+# Assit Researcher
+- company: Harbin Institute of Technology
+  position: Researcher
+  duration: January, 2017, present
+  summary: SESRI-300MeV proton and heavy ion accelerator 10MeV electron accelerator.
 
-# Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
-
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  June 2016 &mdash; Present
-  summary: Provide world class support to customers on the GitHub for Business platform
+# maybe next?
+- company: .
+  position:
+  duration:  
+  summary: 
